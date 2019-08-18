@@ -8,6 +8,8 @@ top : 1
 
 # Cross-cultural Workshop on Reimagining Traditional Music Instruments through Digital Technologies
 
+Also see in http://eecs.qmul.ac.uk/~nickbk/Duxianqin19/
+
 ## Introduction
 
 The workshop will focus on the Duxianqin, a traditional a Solo String instrument popular in southern Guangxi and Vietnam, and explore the use of Digital Music Technology and Interaction Design to reimagine this one-stringed traditional instrument in a creative way.
@@ -81,8 +83,8 @@ The workshop structure will be modified version of the Qi2He 起承转合 (Qǐ-C
 #### Performances
 
 - Traditional music with traditional Duxianqin and/ or Erhu or other traditional instrument
-- Modern music with reimagined Duxianqin
-- Electronic music (Chinese performer)
+- Electronic music with reimagined Duxianqin
+- Ensemble music 
 
 ## Appendix
 

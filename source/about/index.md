@@ -15,7 +15,7 @@ date: 2019-08-13 02:03:23
 
 ##  Employment
 
-- *2019-2020*     ****Visiting Professor****, McGill University Schulish Music School / Centre for Interdisciplinary Research in Music Media and Technology
+- *2019-2020*     **Visiting Professor**, McGill University Schulish Music School / Centre for Interdisciplinary Research in Music Media and Technology
 - *2016-present* **Associate Professor**, Music Technology, Musicology, China Conservatory of Music 
 - *2013-2016*     **Post-doctor**, Music Technology Department, China Conservatory of Music 
 - *2003-2016*     **Lecturer**, Music Technology Department, Shenyang Conservatory of Music
