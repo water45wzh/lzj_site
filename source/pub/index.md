@@ -6,8 +6,8 @@ date: 2019-08-13 00:23:05
 ## Books
 
 + 李伟,李子晋,邵曦.《音频音乐与计算机的交融-声音与音乐技术》[M]复旦大学出版社.2019.
-+ Wei Li, Shengchen Li, Xi Shao, Zijin Li. Proceedings of the 6th Conference on Sound and Music Technology (CSMT)[M] Springer Press.Part of the [Lecture Notes in Electrical Engineering](https://link.springer.com/bookseries/7818) book series (LNEE, volume 568).2019.
-+ 李子晋. 《钢琴音板声学品质评测方法》[M]辽宁大学出版社.2016.
++ Wei Li, Shengchen Li, Xi Shao, Zijin Li. Proceedings of the 6th Conference on Sound and Music Technology (CSMT)[M] Springer Press.Part of the [Lecture Notes in Electrical Engineering](https://link.springer.com/bookseries/7818) book series (LNEE, volume 568).2019.
++ 李子晋. 《钢琴音板声学品质评测方法》[M]辽宁大学出版社.2016.
 
 ## Papers
 
@@ -34,6 +34,5 @@ date: 2019-08-13 00:23:05
 
 + 李子晋，钢琴音板声学品质综合评测系统及评测方法，2016.03.30，中国，ZL201310203719.0
 + 李子晋，一种民族低音拉弦乐器共鸣板阻抗测量装置，2015.06.10，中国，ZL201520061774.5
-+ 郑飞，李子晋，吕彦，一种基于体感振动音乐疗法的多功能康复床，2015.07.10，中国，ZL201520025945.9
 + 李子晋，基于声学品质改良的新型立式钢琴音板，2013.08.10，中国，ZL201320113455.5
 

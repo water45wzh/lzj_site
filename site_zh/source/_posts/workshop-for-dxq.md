@@ -14,7 +14,7 @@ top: 1
 
 本次工作坊将重点关注广西南部和越南流行的传统独奏弦乐器独弦琴，探索数字音乐技术和交互设计的使用，以创造性的方式重塑这种单弦传统乐器。
 
-工作坊的参与者将包括来自于英国伦敦玛丽女王大学 (Queen Mary University of London) 媒体与艺术科技中心 (Media and Arts Technology) 、中央音乐学院音乐人工智能与音乐技术系、中国音乐学院、上海戏剧学院、文化部非物质文化遗产、同济大学、北京大学、中国地质大学等。
+工作坊的参与者将包括来自于英国伦敦玛丽女王大学 (Queen Mary University of London) 媒体与艺术科技中心 (Media and Arts Technology) 、中央音乐学院音乐人工智能与音乐技术系、中国音乐学院、上海戏剧学院、文化部非物质文化遗产中心、同济大学、北京大学、中国地质大学等单位的师生。
 
 参与者以小组的形式负责项目，工作围绕乐器的形制设计、声音合成、传感数据采集、交互设计等方面展开。
 
@@ -37,8 +37,6 @@ top: 1
 
 
 ## 工作坊日程
-
-The workshop structure will be modified version of the Qi2He 起承转合 (Qǐ-Chéng-Zhuǎn-Hé) co-creation process (Bryan-Kinns et al., 2018).
 
 ### 第一天（2019.09.16）文化浸泡（北京“钧天坊”古琴基地）
 
